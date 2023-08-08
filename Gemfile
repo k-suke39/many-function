@@ -84,3 +84,8 @@ group :test do
   gem 'selenium-webdriver'
   gem 'webdrivers'
 end
+
+#for lint 
+  gem 'erb_lint'
+
+
